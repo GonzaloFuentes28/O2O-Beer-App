@@ -21,3 +21,16 @@
 </p>
 
 </div>
+
+<!-- ACKNOWLEDGMENTS -->
+
+## Acknowledgments
+
+Tools used in this project:
+
+- [Choose an Open Source License](https://choosealicense.com)
+- [Flaticon](https://www.flaticon.es)
+
+## License
+
+Distributed under the GPL License. See `LICENSE.txt` for more information.
